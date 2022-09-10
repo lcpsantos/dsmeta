@@ -23,5 +23,4 @@ public class SaleController {
     public List<Sale> findSales() {
         return service.findSales();
     }
-
 }
